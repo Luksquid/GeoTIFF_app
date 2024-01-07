@@ -1,8 +1,8 @@
-Aplikacja desktopowa do wyświatlania podkładów rastrowych NMT (Numeryczny model Terenu) w formacie TIF 
-Funkcjonalność:
-- wyświetlanie podkładów rastrowych NMT w formacie TIF
-- kolorystyka wyświetlania rastrów w skali szarości oraz skalarnej (blue->green->red)
-- możliwość ustawienia przedziałów skali 
-- możliwość pomiaru wartości danego pixela (wysokości)
-- generowanie profilu wysokościowego w oparciu o linie wyrysowaną na rastrze
-- generowanie warstwic wysokościowych w oparciu podkład mapowy
+Desktop application for displaying NMT (Numerical Terrain Model) raster underlays in TIF format. 
+Functionality:
+- display of NMT raster primers in TIF format
+- grayscale and scalar raster display colors (blue->green->red)
+- possibility to set scale ranges 
+- possibility to measure the value of a given pixel (height)
+- generation of height profile based on the line drawn on the raster
+- generation of height contours based on map base
